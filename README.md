@@ -1,7 +1,5 @@
 # ClimaticIndexes
-Download climatic indexes values from NOAA and perform monthly correlation between them.
-
-This code was developed in order to provide data for a PhD course final work around 2020.
+Download climatic indexes values from NOAA and perform monthly correlation between them and flow data.
 
 Note: You will need [Jsoup library](https://jsoup.org/download).
 
@@ -20,3 +18,5 @@ I programmed aproaches for the correlation computed to each quarter of the year,
 Please check `draft.pdf`, which condenses some of the main results and a little more of what was developed in this course. 
 
 _Note that this pdf file is not the final report._
+
+<sub>This code was developed in order to provide data for a PhD course final work around 2020.</sub>
