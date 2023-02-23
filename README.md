@@ -1,4 +1,4 @@
-# ClimaticIndexes
+# ☔️ ClimaticIndexes
 Download climatic indexes values from NOAA and perform monthly correlation between them and flow data.
 
 Note: You will need [Jsoup library](https://jsoup.org/download).
